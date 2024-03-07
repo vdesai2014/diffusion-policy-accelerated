@@ -14,7 +14,7 @@ except ImportError as e:
 
 setup(
     name='diffusion_policy_accelerated',
-    version='1.4',
+    version='1.5',
     author="Vrushank Desai",
     author_email="vrushank@vrushankdes.ai",
     description=("A library to showcase the use of custom CUDA extensions & CUDA graphs to accelerate the inference of Diffusion Policy."),
